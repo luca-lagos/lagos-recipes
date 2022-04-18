@@ -16,7 +16,7 @@
   --color-white: white;
 }
 
-/*::-webkit-scrollbar {
+::-webkit-scrollbar {
   background: transparent;
   width: 20px;
 }
@@ -32,7 +32,7 @@
 ::-webkit-scrollbar-thumb:hover {
   transition: 0.4s;
   background-color: rgba(255, 255, 255, 0.7);
-}*/
+}
 
 html,
 body,
